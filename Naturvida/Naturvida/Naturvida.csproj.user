@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Capa Presentacion\frmFacturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa Presentacion\frmInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa Presentacion\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa Presentacion\frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa Presentacion\frmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
